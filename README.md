@@ -1,7 +1,7 @@
 # Snake
 
-Simple version of snake built in Rust to explore integration of 'specs' and
-'ggez'.
+Simple version of snake built in Rust to explore integration of `specs` and
+`ggez`.
 
 ## Controls
  - arrow keys for movement
